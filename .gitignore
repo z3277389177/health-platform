@@ -27,3 +27,4 @@ health-platform-frontend/dist/
 !health-platform-backend/
 !health-platform-frontend/
 !.gitignore
+!README.md
