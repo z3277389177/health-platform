@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java
+health-platform-backend/target/
+*.class
+*.jar
+*.war
+*.log
+
+# Node
+health-platform-backend/node_modules/
+health-platform-frontend/node_modules/
+health-platform-frontend/dist/
+
+# Env
+*.env
+*.local
+
+# 只管理代码目录，忽略根目录所有文档和原型文件
+/*
+!health-platform-backend/
+!health-platform-frontend/
+!.gitignore
